@@ -3,14 +3,15 @@
 FutaNekoは、掲示板の閲覧・投稿・画像や動画の保存ができるAndroidアプリです。
 現在はストア外で試験版を配布しています。
 
-**[Android版をダウンロード](https://github.com/dieOD/futaneko-android/releases/tag/android-1.0.0-3)**
+**[Android版をダウンロード](https://github.com/dieOD/futaneko-android/releases/tag/android-1.0.1-4)**
 
-ダウンロード先の「Assets」から **`FutaNeko-Android-1.0.0-3.apk`** を選んでください。
+ダウンロード先の「Assets」から **`FutaNeko-Android-1.0.1-4.apk`** を選んでください。
 `Source code`や動画部品の資料は、通常のインストールには必要ありません。
 
 - 対応OS: Android 7.0以降。端末によって動作が異なります。
 - 対象: Androidスマートフォン。タブレットの表示は十分に確認できていません。
 - 料金: この試験版は無料です。
+- バージョン: 1.0.1（4）。
 - 更新: 新しいAPKをダウンロードして上書きします。自動更新はありません。
 
 ## インストール
@@ -48,6 +49,6 @@ OSのバックアップや機種変更で、すべてのデータが移ること
 - [サポート](https://futaneko-support.dieod.chatgpt.site/)
 - [プライバシーポリシー](https://futaneko-support.dieod.chatgpt.site/privacy)
 - [利用条件](https://futaneko-support.dieod.chatgpt.site/terms)
-- [Android動画部品の対応ソース・再構築・差し替え資料](https://github.com/dieOD/futaneko-android/releases/tag/android-1.0.0-3)
+- [Android動画部品の対応ソース・再構築・差し替え資料](https://github.com/dieOD/futaneko-android/releases/tag/android-1.0.1-4)
 
 動画部品の資料は、利用中のAPKと同じ版のReleaseに添付しています。本体ソースの公開リポジトリではありません。第三者の権利とライセンスを保持します。
